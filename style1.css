@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background-color: pink;
+}
+.title{
+    text-align: center;
+}
+.art{
+    width: 900px;
+    float: left;
+    border: 2px solid black;
+   
+}
+.art1{
+    width: 400px;
+    float: right;
+    border: 2px solid black;
+    height: 570px;
+   
+}
+.title1{
+margin-left: 5px;
+}
+.title2{
+    width: 500px;
+    float: right;
+    margin-bottom:30px ;
+    }
+    header{
+        float: left;
+        width: 300px;
+    }
+    .title3{
+        width: 900px;
+        float: left;
+        }
+        .list li{
+            padding: 10px;
+            margin-left:20px ;
+        }
+        .list1 {
+margin-left: 20px;
+        }
+        .list2{
+            margin-left: 20px;
+        }

@@ -1,0 +1,148 @@
+*{
+padding: 0;
+margin: 0;
+
+
+}
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    border: 20px solid black;
+    background-color: pink;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:8px;
+}
+.dum{
+    margin-left: 4px;
+    padding: 2px;
+    
+}
+.Kick{
+    margin-left: 4px;
+    padding: 2px;
+
+}
+.Free{
+    margin-left: 4px;
+    padding: 2px;
+    
+}
+.CSS{
+    margin-left: 4px;
+    padding: 2px;
+    
+}
+.RIP{
+    margin: 6px 0 0 4px;
+    padding: 4px;
+    
+}
+.kalam{
+    margin: 6px 0 0 4px;
+    
+}
+.post{
+    margin: 6px 0 0 4px;
+}
+.img{
+    margin: 6px 0 0 4px;
+}
+.paragraph1{
+    margin: 6px 0 0 4px;
+}
+.paragraph2{
+    margin: 6px 0 0 4px;
+}
+.is{
+    margin: 6px 0 0 4px;
+    padding: 4px;
+}
+.paragraph3{
+    margin: 6px 0 0 4px;
+}
+.paragraph4{
+    margin: 6px 0 0 4px;
+}
+.paragraph5{
+    margin: 6px 0 0 4px;
+}
+.list1{
+    margin: 6px 0 0 15px;
+}
+#paragraph6{
+    margin: 6px 0 0 4px;
+}
+.magazine{
+    margin: 6px 0 0 4px;
+    padding: 4px;
+}
+.paragraph7{
+    margin: 6px 0 0 4px;
+}
+.list2{
+    margin: 6px 0 0 17px;
+
+}
+.paragraph8{
+    margin: 6px 0 0 4px;
+
+}
+.paragraph9{
+    margin: 6px 0 0 4px;
+
+}
+.elon{
+    margin: 6px 0 0 4px;
+    
+
+}
+.albert{
+    margin: 6px 0 0 4px;
+
+}
+.modi{
+    margin: 6px 0 0 4px;
+
+}
+.musk{
+    margin: 6px 0 0 4px;
+
+}
+.Einstein{
+    margin: 6px 0 0 4px;
+
+}
+.narendra{
+    margin: 6px 0 0 4px;
+
+}
+.paragraph10{
+    margin: 6px 0 0 4px;
+
+}
+.container1{
+    float:left;
+
+}
+.imgs{
+    float:left;
+}
+.para{
+    float:right;
+    width: 200px;
+}
+.rip-para{
+    float:right;
+}
+/*.art{
+    width: 400px;
+    border: 5px solid black;
+}*/
+.mag{
+    float:left;
+}
+.relate{
+    float:left;
+}
